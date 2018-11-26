@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'facepet-angular';
+  title = 'FacePet - La nueva red social de mascotas';
 }
